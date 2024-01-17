@@ -69,7 +69,7 @@ const {courseInstructor: instructor} = course
 console.log(instructor);
 
 // {
-//     "name": "hitesh",
+//     "name": "Yash",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
